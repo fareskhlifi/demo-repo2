@@ -1,3 +1,12 @@
-# Demo 2
+# Demo 
 
-Some text 
+Testing ..!
+Hello Git
+
+## Subheader
+
+local test..!
+
+## Local Development
+
+Some Code instructions ...
